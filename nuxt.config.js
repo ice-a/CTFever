@@ -278,5 +278,6 @@ export default {
         }
       }
     }
-  }
+  },
+  outputDir: 'dist'
 };
